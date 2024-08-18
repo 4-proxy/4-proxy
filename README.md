@@ -1,16 +1,91 @@
-## Hi there 👋
+<div id="profile_gif" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmx3MXR3NHN2MnZ2aDh4bTZkcHY2Z2tndnZ3ZXNnaWo0Ymd6ZTFseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2dn1BqrVTs7zejxC9V/giphy.gif" width="200" alt="Cake gif" />
+</div>
 
-<!--
-**4-proxy/4-proxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="social_links" align="center">
+  <a href="https://t.me/proxy_k91">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+## Social ID's
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="social_id">
+  <a href="https://discord.com/app">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <strong>Discord</strong>: 4proxy
+  <br>
+  <a href="https://app.hackthebox.com/home">
+    <img src="https://img.shields.io/badge/HTB%20Labs-9FEF00?logo=hackthebox&logoColor=white" alt="HTB Labs" />
+  </a>
+  <strong>HTB Labs</strong>: 4Proxy #2042670
+</div>
+
+---
+
+### 🙋‍♂️About me:
+I'm an ordinary guy who just likes programming/coding.<br>
+I'm currently a college student in my final year, after which I will be looking a job to start my career.<br> 
+I want to become a great specialist in the technical IT field.<br>
+
+✨**What I want**✨:
+- 💼 Gain experience by working on an IT project's.
+- 🤝 Meet great people who will share their professional experience.
+- 😎 Become the ‘cool’ guy about it.
+- And, of course, eat well 💲💲💲.
+
+---
+
+## Programming languages
+
+<div id="programming_languages_icons">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" width=50 />
+  <div id="script_lang">
+    <img src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000" alt="PowerShell" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="Bash" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualbasic/visualbasic-original.svg" alt="VBA" width=50 />
+  </div>
+</div>
+
+## 🛠️Tools
+
+<div id="tools_icons">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" alt="VSCode" width=50 />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width=60 />
+</div>
+
+## 🧰Utils
+
+<div id="utils_icons">
+  <div id="editors">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vim/vim-original.svg" alt="Vim" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=1aLOSMCcgWFr&format=png&color=000000" alt="PowerShell ISE" width=50 />
+  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width=60 />
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width=50 />
+  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width=50 />
+  <img src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000" alt="Jenkins" width=50 />
+  <div id="microsoft_office">
+    <img src="https://img.icons8.com/?size=100&id=121160&format=png&color=000000" alt="Access" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=pGHcje298xSl&format=png&color=000000" alt="Word" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=7lJtplrxEIbD&format=png&color=000000" alt="Project" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" alt="PowerPoint" width=50 />
+  </div>
+  <div id="some_useful">
+    <img src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000" alt="Obsidian" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" alt="Adobe Photoshop" width=50 />
+  </div>
+</div>
+
+## 〰️Other
+
+<div id="other_icons">
+  <div id="os">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width=50 />
+    <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" alt="Kali Linux" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="Linux" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows8/windows8-original.svg" alt="Windows10" width=50 />
+  </div>
+</div>
