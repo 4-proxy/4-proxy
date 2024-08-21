@@ -25,14 +25,13 @@
 ---
 
 ### 🙋‍♂️About me:
-I'm an ordinary guy who just likes programming/coding.<br>
-I'm currently a college student in my final year, after which I will be looking a job to start my career.<br> 
-I want to become a great specialist in the technical IT field.<br>
+I'm an ordinary individual with a passion for programming and coding.<br>
+I'm currently a college student in my final year, after which I will be seeking employment to launch my career.<br> 
+My objective is to become a highly skilled professional in the IT field.<br>
 
 ✨**What I want**✨:
-- 💼 Gain experience by working on an IT project's.
-- 🤝 Meet great people who will share their professional experience.
-- 😎 Become the ‘cool’ guy about it.
+- 💼 Seeking opportunities to gain experience by working on IT projects.
+- 🤝 I want to meet and learn from professionals in the IT field's, to become a well-rounded and knowledgeable individual.
 - And, of course, eat well 💲💲💲.
 
 ---
