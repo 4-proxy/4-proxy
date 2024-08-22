@@ -39,11 +39,16 @@ My objective is to become a highly skilled professional in the IT field.<br>
 ## Programming languages
 
 <div id="programming_languages_icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" width=50 />
+  <div id="Hight-level">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" width=50 />
+  </div>
   <div id="script_lang">
     <img src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000" alt="PowerShell" width=50 />
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="Bash" width=50 />
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualbasic/visualbasic-original.svg" alt="VBA" width=50 />
+  </div>
+  <div id="Other">
+    <img src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" alt="SQL" width=50 />
   </div>
 </div>
 
