@@ -93,4 +93,8 @@ My objective is to become a highly skilled professional in the IT field.<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="Linux-Family" width=50 />
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows8/windows8-original.svg" alt="Windows10" width=50 />
   </div>
+  <div id="Virtualization_systems">
+    <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" alt="VirtualBox" width=50 />
+    <img src="https://img.utdstc.com/icon/06f/a39/06fa39301c97531152761a4d780a1fedcdaec6b55ff08f5327eba2ff19cdd9bb:100" alt="WSL" width=50 />
+  </div>
 </div>
