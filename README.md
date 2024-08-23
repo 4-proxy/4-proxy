@@ -87,6 +87,7 @@ My objective is to become a highly skilled professional in the IT field.<br>
 
   <div id="os-server">
     <img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="Ubuntu-Server" width=50 />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Windows_Server_2019_logo.svg" alt="Windows-Server-2019" width=250 />
   </div>
 
 ## 〰️Other
@@ -96,7 +97,7 @@ My objective is to become a highly skilled professional in the IT field.<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width=50 />
     <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" alt="Kali Linux" width=50 />
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" alt="Linux-Family" width=50 />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows8/windows8-original.svg" alt="Windows10" width=50 />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/windows8/windows8-original.svg" alt="Windows-Family" width=50 />
   </div>
   <div id="Virtualization_systems">
     <img src="https://img.icons8.com/?size=100&id=38792&format=png&color=000000" alt="VirtualBox" width=50 />
