@@ -25,7 +25,7 @@
 ---
 
 ### 🙋‍♂️About me:
-I'm an ordinary individual with a passion for programming and coding.<br>
+I'm an ordinary person with a passion for programming and coding.<br>
 I'm currently a college student in my final year, after which I will be seeking employment to launch my career.<br> 
 My objective is to become a highly skilled professional in the IT field.<br>
 
