@@ -6,6 +6,9 @@
   <a href="https://t.me/proxy_k91">
     <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="https://www.codewars.com/users/4-proxy">
+    <img src="https://img.shields.io/badge/Codewars-C72C41?logo=codewars&logoColor=black" alt="Codewars" />
+  </a>
 </div>
 
 ## Social ID's
