@@ -60,6 +60,7 @@ My objective is to become a highly skilled professional in the IT field.<br>
 <div id="tools_icons">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" alt="VSCode" width=50 />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width=60 />
+  <img src="https://img.icons8.com/?size=100&id=9nnArlCrUbGb&format=png&color=000000" alt="1C" width=60 />
 </div>
 
 ## 🧰Utils
