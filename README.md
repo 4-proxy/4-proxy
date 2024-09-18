@@ -18,11 +18,6 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" alt="Discord" />
   </a>
   <strong>Discord</strong>: 4proxy
-  <br>
-  <a href="https://app.hackthebox.com/home">
-    <img src="https://img.shields.io/badge/HTB%20Labs-9FEF00?logo=hackthebox&logoColor=white" alt="HTB Labs" />
-  </a>
-  <strong>HTB Labs</strong>: 4Proxy #2042670
 </div>
 
 ---
