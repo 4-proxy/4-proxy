@@ -6,6 +6,9 @@
   <a href="https://t.me/proxy_k91">
     <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+    <a href="https://vk.com/4proxy">
+    <img src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-4A76A8?logo=vk" alt="Vk" />
+  </a>
   <a href="https://www.codewars.com/users/4-proxy">
     <img src="https://img.shields.io/badge/Codewars-C72C41?logo=codewars&logoColor=black" alt="Codewars" />
   </a>
