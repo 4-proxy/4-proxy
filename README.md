@@ -35,6 +35,10 @@ My objective is to become a highly skilled professional in the IT field.<br>
 - 🤝 I want to meet and learn from professionals in the IT field's, to become a well-rounded and knowledgeable individual.
 - And, of course, eat well 💲💲💲.
 
+📫**My e-mails**📫:  
+Commercial e-mail: pubsec.4proxy.k91@outlook.com  
+Public e-mail: 4proxy.cleanhouse@proton.me  
+
 ---
 
 ## Programming languages
