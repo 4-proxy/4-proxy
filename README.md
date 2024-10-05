@@ -92,10 +92,10 @@ Public e-mail: 4proxy.cleanhouse@proton.me
 
 ## 🖥️Servers
 
-  <div id="os-server">
-    <img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="Ubuntu-Server" width=50 />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Windows_Server_2019_logo.svg" alt="Windows-Server-2019" width=250 />
-  </div>
+<div id="os-server">
+  <img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" alt="Ubuntu-Server" width=50 />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Windows_Server_2019_logo.svg" alt="Windows-Server-2019" width=250 />
+</div>
 
 ## 〰️Other
 
