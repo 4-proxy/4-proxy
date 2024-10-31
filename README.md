@@ -35,7 +35,7 @@ Public e-mail: 4proxy.cleanhouse@proton.me
 ## Programming languages
 
 <div id="programming_languages_icons">
-  <div id="Hight-level">
+  <div id="hight-level">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" alt="Python" width=50 />
   </div>
   <div id="script_lang">
@@ -43,8 +43,9 @@ Public e-mail: 4proxy.cleanhouse@proton.me
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" alt="Bash" width=50 />
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/visualbasic/visualbasic-original.svg" alt="VBA" width=50 />
   </div>
-  <div id="Other">
+  <div id="other">
     <img src="https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000" alt="SQL" width=50 />
+    <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" alt="UML" width=50 />
   </div>
 </div>
 
@@ -54,6 +55,7 @@ Public e-mail: 4proxy.cleanhouse@proton.me
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" alt="VSCode" width=50 />
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width=60 />
   <img src="https://img.icons8.com/?size=100&id=9nnArlCrUbGb&format=png&color=000000" alt="1C" width=60 />
+  <img src="https://staruml.io/image/staruml_logo.png" alt="StarUML" width=40 />
 </div>
 
 ## 🧰Utils
