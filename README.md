@@ -38,6 +38,7 @@ My objective is to become a highly skilled professional in the IT field.<br>
 📫**My e-mails**📫:  
 Commercial e-mail: pubsec.4proxy.k91@outlook.com  
 Public e-mail: 4proxy.cleanhouse@proton.me  
+Auxiliary e-mail: kotlstoun@gmail.com    
 
 ---
 
