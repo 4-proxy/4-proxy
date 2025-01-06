@@ -14,6 +14,15 @@
   </a>
 </div>
 
+## Social ID's
+<div id="social_id">
+  <a href="https://discord.com/app">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <div>
+    <strong>Discord</strong>: 4proxy
+</div>
+
 ---
 
 ### 🙋‍♂️About me:
